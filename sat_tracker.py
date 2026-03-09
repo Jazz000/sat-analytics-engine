@@ -7,7 +7,7 @@ def run_diagnostic():
         "Standard English Punctuation": 0,
         "Words in Context": 0,
         "Algebra & Linear Equations": 0,
-        "Coordinate Geometry": 0
+        "Coordinate Geometry": 0,
         "Cross-Text Connections": 0,
         "Command of Evidence": 0,
         "Central Ideas": 0,
