@@ -8,6 +8,14 @@ def run_diagnostic():
         "Words in Context": 0,
         "Algebra & Linear Equations": 0,
         "Coordinate Geometry": 0
+        "Cross-Text Connections": 0,
+        "Command of Evidence": 0,
+        "Central Ideas": 0,
+        "Inferences": 0,
+        "Grammer": 0,
+        "Transitions": 0,
+        "Trigonometry": 0,
+        "Data Analysis": 0,
     }
 
     while True:
